@@ -1,0 +1,38 @@
+	body{
+			background-image:url('fondohd.jpeg');
+			background-size: cover;
+			background-repeat: no-repeat;
+			}
+	body2{
+			font-family: 'Kristen ITC';
+			marging:0;
+			padding: 0;
+			}
+	.caja4{
+			background-color: #93B1BF;
+		 	padding-left: 90px;
+		 	padding-right: 90px;
+		 	margin-left: 100px;
+		 	margin-right: 100px;
+		 	border: 7px solid #345E70;
+		 	color: #696868;
+		 	font-family: 'Kristen ITC';
+		}
+	.cajas{
+			background-color: #D9E9FF;
+		 	padding-left: 50px;
+		 	padding-right: 50px;
+		 	margin-left: 70px;
+		 	margin-right: 70px;
+		 	border: 6px solid #3D718A;
+		 	color: #696868;
+		 	font-family: 'Kristen ITC';
+	}
+	.img1{
+			width: 400px;
+		 	height: auto;
+		 	display: block;
+		 	marging: center;
+		 	margin-top: 20px;
+		 	margin-bottom: 20px;
+		 	}

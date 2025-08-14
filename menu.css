@@ -1,0 +1,27 @@
+	body{
+			background-image:url('fondohd.jpeg');
+			background-size: cover;
+			background-repeat: no-repeat;
+		}
+	body2{
+			font-family: 'Kristen ITC';
+			marging:0;
+			padding: 0;
+			}
+	.imgmenu{
+		 	width: 500px;
+		 	height: auto;
+		 	display: block;
+		 	marging: center;
+		 	margin-top: 10px;
+		 	margin-bottom: 10px;
+		 	}
+	.cajamenu{
+			background-color: #F7F7F7;
+			padding: 30px;
+	 		margin-left: 250px;
+	 		margin-right: 250px;
+		 	border: 7px solid #CFCFCF;
+			color: #696868;
+	 		font-family: 'Kristen ITC';
+		 	}
